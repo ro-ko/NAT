@@ -1,9 +1,5 @@
 # Integrating Negative Examples when Fine-tuning Large Language Models as Agents
 
-<p align="center">
-    <a href="https://huggingface.co/datasets/reasonwang/NATInstruct">🤗Dataset (math, qa)</a>
-</p>
-
 ## Models
 
 Our models are trained with negative-aware training method based on Llama-2-chat. Each model is trained with both positive and negative samples. All model links can be found in **Table 1**.
