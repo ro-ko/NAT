@@ -2,10 +2,9 @@
 
 ## Models
 
-Our models are trained with negative-aware training method based on Llama-2-chat. Each model is trained with both positive and negative samples. All model links can be found in **Table 1**.
+Our model is Llama-2-chat. 
 
-
-**Table 1**: Models and datasets.
+https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 
 ## Interactive
 
